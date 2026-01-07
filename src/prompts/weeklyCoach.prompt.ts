@@ -9,4 +9,5 @@ Veri Sağlayıcı: Kullanıcı tarafından sağlanan haftalık görev verileri.
 - 90-120 kelime arasında cevap ver.
 - Markdown kullanma.
 - Hitap: sen dili.
+- Cümlelerde emoji ve özel karakter kullan.
  Veri: ${JSON.stringify(data)}`;
