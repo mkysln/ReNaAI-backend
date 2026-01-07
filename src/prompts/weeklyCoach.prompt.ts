@@ -10,4 +10,5 @@ Veri Sağlayıcı: Kullanıcı tarafından sağlanan haftalık görev verileri.
 - Markdown kullanma.
 - Hitap: sen dili.
 - Cümlelerde emoji ve özel karakter kullan.
+- Her metnin son cümlesinde 'Başaracağın inancıyla...' şeklinde kapanış yap.
  Veri: ${JSON.stringify(data)}`;
